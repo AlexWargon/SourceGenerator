@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGenerator", "SourceGenerator\SourceGenerator.csproj", "{119B02E1-DE7C-4681-9187-F390C17CFC5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{038D1104-30CE-4A7E-9D19-15E7454F57BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119B02E1-DE7C-4681-9187-F390C17CFC5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119B02E1-DE7C-4681-9187-F390C17CFC5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119B02E1-DE7C-4681-9187-F390C17CFC5C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{119B02E1-DE7C-4681-9187-F390C17CFC5C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{038D1104-30CE-4A7E-9D19-15E7454F57BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038D1104-30CE-4A7E-9D19-15E7454F57BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038D1104-30CE-4A7E-9D19-15E7454F57BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038D1104-30CE-4A7E-9D19-15E7454F57BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Unity\SourceGenerator\SourceGenerator\bin\Release\netstandard2.0\SourceGenerator.deps.json
+D:\Unity\SourceGenerator\SourceGenerator\bin\Release\netstandard2.0\SourceGenerator.dll
+D:\Unity\SourceGenerator\SourceGenerator\bin\Release\netstandard2.0\SourceGenerator.pdb
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.csproj.AssemblyReference.cache
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.AssemblyInfoInputs.cache
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.AssemblyInfo.cs
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.csproj.CoreCompileInputs.cache
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.dll
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.pdb
+D:\Unity\SourceGenerator\SourceGenerator\bin\Release\netstandard2.0\SourceGenerator.xml
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.Properties.Resources.resources
+D:\Unity\SourceGenerator\SourceGenerator\obj\Release\netstandard2.0\SourceGenerator.csproj.GenerateResource.cache
